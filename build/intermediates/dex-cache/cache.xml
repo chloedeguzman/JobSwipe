@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/pre-dexed/debug/classes-fe6cc14f77c9e4bf19ee38ac0fffd8bdea842e6e.jar" />
+    </item>
+    <item
+        jar="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/pre-dexed/debug/classes-d2763d9808fd04606c055e391c02093f6c3f4fe5.jar" />
+    </item>
+    <item
+        jar="/Users/eric/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d710bb8567f97494d1acb84b2bbcf0f340e48a1b.jar" />
+    </item>
+    <item
+        jar="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c2f47e347036b83867a6fa546e2f39120af0a7c5.jar" />
+    </item>
+    <item
+        jar="/Users/eric/AndroidStudioProjects/JobSwipe/app/libs/sinch-android-rtc-3.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c8698fa5414b110fc37c13eddef42711e14e6fd1">
+        <dex dex="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/pre-dexed/debug/sinch-android-rtc-3.4.3-6d897646a845340d094e3aeff57d25087b83a6b7.jar" />
+    </item>
+    <item
+        jar="/Users/eric/AndroidStudioProjects/JobSwipe/app/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/pre-dexed/debug/Parse-1.8.2-dce96b07a7feef70becc254a0d288ec570a62923.jar" />
+    </item>
+    <item
+        jar="/Users/eric/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-645c78abcfd84d6166ee0ef8d4e3dc24f77a3702.jar" />
+    </item>
+    <item
+        jar="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/eric/AndroidStudioProjects/JobSwipe/app/build/intermediates/pre-dexed/debug/classes-3ce6b6eaac04580ec1c4fad5dffb3f2ce1a566e8.jar" />
+    </item>
+
+</items>
